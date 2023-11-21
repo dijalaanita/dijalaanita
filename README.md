@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anita Dijala
-- 🌱 I’m currently studying software engineering in York University
-- 📫 How to reach me: via email: dijalaanita@gmail.com
+- 🌱 I’m currently studying computer science at Lancaster University
+- 🥅 Aspiring Frontend/Web Developer 
+- 📫 How to reach me: via email -> dijalaanita@gmail.com
 
 <!---
 dijalaanita/dijalaanita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
